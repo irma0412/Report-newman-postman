@@ -11,7 +11,8 @@ Hai! Ini adalah project API Testing Automation yang aku jalankan menggunakan Pos
 ⚠️ Catatan: Untuk saat ini eksekusinya masih dilakukan manual melalui CLI, belum terhubung ke CI/CD Pipeline (seperti GitHub Actions atau Jenkins). Tapi flow testingnya sudah menggunakan prinsip otomasi. ✨
 
 # 📂 Apa Aja Isinya?
-HTML Report (Hasil Newman Run) → Bisa langsung dilihat di GitHub Pages Report Link
+HTML Report (Hasil Newman Run) → Bisa langsung dilihat di GitHub Pages Report 
+https://irma0412.github.io/Report-newman-postman/
 
 - Postman Collection → File JSON API Reqres.in.
 - Postman Environment → File JSON Environment (Base URL, API Key, dll).
